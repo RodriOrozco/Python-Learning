@@ -1,0 +1,2 @@
+Cree un archivo txt desde el archivo py de manejo_Archivos :)
+Voy a sobreescribir otra linea jeje
